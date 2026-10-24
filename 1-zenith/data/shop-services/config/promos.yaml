@@ -1,0 +1,37 @@
+# Discount codes for the storefront API (/cart/quote).
+# Marketing sends changes to Brendan, Brendan deploys. Percentages are whole numbers.
+# Shopify only allows ONE promo code per order; creator codes go in the separate
+# "creator code" field we added to the cart for BF22.
+
+promo_codes:
+  WELCOME10:
+    pct: 10
+    first_order_only: true      # checked by Shopify customer tag, not here
+  NEWS5:
+    pct: 5
+  LOYAL15:
+    pct: 15
+  ZENITH30:
+    pct: 30
+    active: true                # flash weekend 5-7 Jan 2024 -> set back to false on Mon 8 Jan!
+
+creator_codes:
+  # agency contract from 2023-02-01: all creator codes 30%
+  pct: 30
+  codes:
+    - FITFAM30
+    - MAXLIFTS30
+    - YOGAWITHJESS30
+    - COACHDRE30
+    - RUNWITHLENA30
+    - GAINZBYTOM30
+    - PILATESPRIYA30
+    - LIFTLIKEKAI30
+    - MOBILITYMO30
+    - STRONGSAM30
+    - TRAILTAYLOR30
+    - CORECARMEN30
+  # retired 2023-01-31 (were 20%)
+  # - MAXLIFTS20
+  # - YOGAWITHJESS20
+  # - COACHDRE20

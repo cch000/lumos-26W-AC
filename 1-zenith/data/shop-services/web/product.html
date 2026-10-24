@@ -1,0 +1,46 @@
+<!-- Test page for cart.js (the live product pages are the Shopify theme). Open with: python -m http.server -d web -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Alpine Zip Hoodie - Zenith Active</title>
+  <style>
+    body { font-family: sans-serif; background: #111; color: #eee; margin: 40px; }
+    .banner { border: 2px solid #e8336a; padding: 16px; margin-top: 32px; }
+    button { background: #e8336a; color: #fff; border: 0; padding: 12px 24px; cursor: pointer; }
+    #added-modal { display: none; position: fixed; top: 25%; left: 35%; background: #fff; color: #111; width: 420px; }
+    #added-modal.open { display: block; }
+    .modal-title { background: #e8336a; color: #fff; padding: 16px; font-weight: bold; text-transform: uppercase; }
+    .modal-body { padding: 16px; }
+    #continue-shopping { background: #fff; color: #555; border: 1px solid #ccc; padding: 6px; font-size: 12px; }
+  </style>
+</head>
+<body>
+  <header>ZENITH ACTIVE <span class="cart-count">0</span></header>
+
+  <h1>Alpine Zip Hoodie - Charcoal</h1>
+  <p><s>$85.00</s> $59.50 with ZENITH30</p>
+  <button data-add-to-cart data-product='{"id": "SKU-001", "name": "Alpine Zip Hoodie", "variant": "Charcoal / L", "price": 85.0}'>Add to cart</button>
+
+  <div class="banner">
+    <strong>GOT A CREATOR CODE? STACK IT WITH OUR SITEWIDE SALE!</strong>
+    <p>Our Creator Affiliate partners are sharing exclusive bundles and extra discounts.</p>
+    <input id="promo-code" placeholder="Promo code">
+    <input id="creator-code" placeholder="Creator code (e.g. FITFAM30)">
+    <button id="apply-codes">Apply</button>
+    <p id="cart-estimate"></p>
+  </div>
+
+  <div id="added-modal">
+    <div class="modal-title"></div>
+    <div class="modal-body">
+      <p><span class="item-name"></span> <small class="item-variant"></small> <span class="item-price"></span></p>
+      <p>Order Total <strong class="order-total"></strong></p>
+      <button onclick="window.location.href='/checkout'">&rarr; Checkout now</button>
+      <button id="continue-shopping">&larr; Continue Shopping</button>
+    </div>
+  </div>
+
+  <script src="cart.js"></script>
+</body>
+</html>

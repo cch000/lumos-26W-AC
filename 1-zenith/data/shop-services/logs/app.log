@@ -1,0 +1,86 @@
+2022-11-14 05:48:12,762 INFO uvicorn.error: Started server process [1187]
+2022-11-14 05:48:13,060 INFO uvicorn.error: Waiting for application startup.
+2022-11-14 05:48:13,472 INFO shop: loaded 3 creator codes, 3 promo codes, 47 zone rows
+2022-11-14 05:48:13,896 INFO uvicorn.error: Application startup complete.
+2022-11-14 05:48:13,954 INFO uvicorn.error: Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+2022-11-27 09:23:37,701 INFO shop: quote zip3=938 units=1 subtotal=28.00 promo=- creator=YOGAWITHJESS20 discount=5.60 shipping=16.40 (Express Air) total=38.80
+2022-11-28 08:58:32,822 INFO shop: quote zip3=605 units=1 subtotal=55.00 promo=- creator=YOGAWITHJESS20 discount=11.00 shipping=7.45 (Ground) total=51.45
+2022-11-28 09:52:34,577 INFO shop: quote zip3=679 units=1 subtotal=33.00 promo=WELCOME10 creator=YOGAWITHJESS20 discount=9.90 shipping=7.45 (Ground) total=30.55
+2022-11-28 11:02:05,406 INFO shop: quote zip3=456 units=1 subtotal=90.00 promo=LOYAL15 creator=YOGAWITHJESS20 discount=31.50 shipping=6.80 (Ground) total=65.30
+2022-11-28 23:04:51,412 WARNING shop: slow request POST /cart/quote 2.41s (db locked, retried)
+2023-02-03 16:02:07,413 INFO uvicorn.error: Started server process [1187]
+2023-02-03 16:02:08,408 INFO uvicorn.error: Waiting for application startup.
+2023-02-03 16:02:08,441 INFO shop: loaded 12 creator codes, 3 promo codes, 47 zone rows
+2023-02-03 16:02:08,654 INFO uvicorn.error: Application startup complete.
+2023-02-03 16:02:08,660 INFO uvicorn.error: Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+2023-02-14 11:37:40,200 INFO uvicorn.error: Started server process [1]
+2023-02-14 11:37:41,073 INFO uvicorn.error: Waiting for application startup.
+2023-02-14 11:37:41,218 INFO shop: loaded 12 creator codes, 3 promo codes, 47 zone rows
+2023-02-14 11:37:41,456 INFO uvicorn.error: Application startup complete.
+2023-02-14 11:37:41,466 INFO uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2023-06-18 03:12:44,353 INFO uvicorn.access: 185.220.101.47:0 - "GET /admin/orders HTTP/1.0" 200
+2023-06-18 03:12:53,620 INFO uvicorn.access: 185.220.101.47:0 - "GET /orders/ZA-131877%27 HTTP/1.0" 500
+2023-06-18 03:12:53,629 ERROR uvicorn.error: Exception in ASGI application
+Traceback (most recent call last):
+  File "/srv/app/app/main.py", line 100, in get_order
+    row = conn.execute(f"SELECT * FROM orders WHERE order_id = '{order_id}'").fetchone()
+sqlite3.OperationalError: unrecognized token: "'ZA-131877''"
+2023-06-18 03:12:59,005 INFO uvicorn.access: 185.220.101.47:0 - "GET /orders/ZA-131877%27%20OR%20%271%27=%271 HTTP/1.0" 200
+2023-06-18 03:13:15,585 INFO uvicorn.access: 185.220.101.47:0 - "GET /admin/orders?limit=5000 HTTP/1.0" 200
+2023-09-01 00:00:03,159 INFO uvicorn.error: Started server process [1]
+2023-09-01 00:00:04,554 INFO uvicorn.error: Waiting for application startup.
+2023-09-01 00:00:04,580 INFO shop: loaded 12 creator codes, 4 promo codes, 47 zone rows
+2023-09-01 00:00:04,633 INFO uvicorn.error: Application startup complete.
+2023-09-01 00:00:04,640 INFO uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2023-12-01 07:09:26,900 INFO shop: quote zip3=236 units=1 subtotal=313.00 promo=- creator=CORECARMEN30 discount=93.90 shipping=0.00 (Ground) total=219.10
+2023-12-01 07:31:53,217 INFO shop: quote zip3=665 units=1 subtotal=105.00 promo=ZENITH30 creator=- discount=31.50 shipping=7.45 (Ground) total=80.95
+2023-12-01 09:03:46,633 INFO shop: quote zip3=726 units=1 subtotal=55.00 promo=ZENITH30 creator=- discount=16.50 shipping=7.45 (Ground) total=45.95
+2023-12-01 09:11:09,390 INFO shop: quote zip3=777 units=1 subtotal=28.00 promo=ZENITH30 creator=- discount=8.40 shipping=8.60 (Ground) total=28.20
+2023-12-01 09:17:30,157 INFO shop: quote zip3=939 units=1 subtotal=56.00 promo=ZENITH30 creator=- discount=16.80 shipping=16.40 (Express Air) total=55.60
+2023-12-01 10:32:26,654 INFO shop: quote zip3=952 units=1 subtotal=33.00 promo=ZENITH30 creator=MOBILITYMO30 discount=19.80 shipping=16.40 (Express Air) total=29.60
+2023-12-01 12:48:21,263 INFO shop: quote zip3=623 units=1 subtotal=85.00 promo=- creator=- discount=0.00 shipping=0.00 (Ground) total=85.00
+2023-12-01 13:49:18,360 INFO shop: quote zip3=932 units=1 subtotal=119.00 promo=ZENITH30 creator=- discount=35.70 shipping=0.00 (Express Air) total=83.30
+2023-12-01 14:50:11,621 INFO shop: quote zip3=563 units=1 subtotal=36.00 promo=ZENITH30 creator=- discount=10.80 shipping=6.80 (Ground) total=32.00
+2023-12-01 15:45:26,377 INFO shop: quote zip3=699 units=2 subtotal=268.00 promo=ZENITH30 creator=- discount=80.40 shipping=0.00 (Ground) total=187.60
+2023-12-01 16:41:36,490 INFO shop: quote zip3=928 units=1 subtotal=55.00 promo=ZENITH30 creator=FITFAM30 discount=33.00 shipping=16.40 (Express Air) total=38.40
+2023-12-01 17:46:28,130 INFO shop: quote zip3=323 units=1 subtotal=22.00 promo=ZENITH30 creator=GAINZBYTOM30 discount=13.20 shipping=6.80 (Ground) total=15.60
+2023-12-01 18:01:29,123 INFO shop: quote zip3=430 units=3 subtotal=261.00 promo=ZENITH30 creator=CORECARMEN30 discount=156.60 shipping=0.00 (Ground) total=104.40
+2023-12-01 18:10:39,874 INFO shop: quote zip3=289 units=1 subtotal=122.00 promo=ZENITH30 creator=- discount=36.60 shipping=0.00 (Ground) total=85.40
+2023-12-01 18:43:56,504 INFO shop: quote zip3=906 units=1 subtotal=122.00 promo=ZENITH30 creator=- discount=36.60 shipping=0.00 (Express Air) total=85.40
+2023-12-01 19:14:09,482 INFO shop: quote zip3=900 units=1 subtotal=119.00 promo=ZENITH30 creator=- discount=35.70 shipping=0.00 (Express Air) total=83.30
+2023-12-01 19:25:58,496 INFO shop: quote zip3=243 units=2 subtotal=92.00 promo=ZENITH30 creator=LIFTLIKEKAI30 discount=55.20 shipping=6.65 (Ground) total=43.45
+2023-12-01 20:55:35,500 INFO shop: quote zip3=439 units=1 subtotal=110.00 promo=ZENITH30 creator=- discount=33.00 shipping=0.00 (Ground) total=77.00
+2023-12-01 21:18:45,324 INFO shop: quote zip3=721 units=2 subtotal=107.00 promo=ZENITH30 creator=- discount=32.10 shipping=8.00 (Ground) total=82.90
+2023-12-01 21:23:19,092 INFO shop: quote zip3=933 units=3 subtotal=258.00 promo=ZENITH30 creator=MAXLIFTS30 discount=154.80 shipping=0.00 (Express Air) total=103.20
+2023-12-01 21:25:35,152 INFO shop: quote zip3=781 units=1 subtotal=22.00 promo=ZENITH30 creator=- discount=6.60 shipping=8.60 (Ground) total=24.00
+2023-12-01 21:37:59,109 INFO shop: quote zip3=369 units=1 subtotal=45.00 promo=ZENITH30 creator=- discount=13.50 shipping=6.80 (Ground) total=38.30
+2023-12-02 11:47:15,772 INFO shop: quote zip3=177 units=1 subtotal=22.00 promo=ZENITH30 creator=- discount=6.60 shipping=5.55 (Ground) total=20.95
+2023-12-02 14:05:36,355 INFO shop: quote zip3=627 units=1 subtotal=122.00 promo=ZENITH30 creator=- discount=36.60 shipping=0.00 (Ground) total=85.40
+2023-12-02 14:42:14,763 INFO shop: quote zip3=916 units=4 subtotal=239.00 promo=ZENITH30 creator=- discount=71.70 shipping=0.00 (Express Air) total=167.30
+2023-12-02 16:33:31,276 INFO shop: quote zip3=762 units=2 subtotal=116.00 promo=ZENITH30 creator=- discount=34.80 shipping=0.00 (Ground) total=81.20
+2023-12-02 19:56:42,495 INFO shop: quote zip3=643 units=1 subtotal=36.00 promo=- creator=- discount=0.00 shipping=7.45 (Ground) total=43.45
+2023-12-02 20:49:20,853 INFO shop: quote zip3=105 units=3 subtotal=386.00 promo=ZENITH30 creator=- discount=115.80 shipping=0.00 (Ground) total=270.20
+2023-12-02 22:43:34,713 INFO shop: quote zip3=338 units=1 subtotal=184.00 promo=ZENITH30 creator=- discount=55.20 shipping=0.00 (Ground) total=128.80
+2023-12-03 09:48:35,170 INFO shop: quote zip3=901 units=1 subtotal=90.00 promo=ZENITH30 creator=FITFAM30 discount=54.00 shipping=16.40 (Express Air) total=52.40
+2023-12-03 10:31:03,533 INFO shop: quote zip3=738 units=1 subtotal=55.00 promo=ZENITH30 creator=- discount=16.50 shipping=7.45 (Ground) total=45.95
+2023-12-03 11:59:31,028 INFO shop: quote zip3=443 units=1 subtotal=55.00 promo=ZENITH30 creator=- discount=16.50 shipping=6.80 (Ground) total=45.30
+2023-12-03 12:16:18,215 INFO shop: quote zip3=387 units=4 subtotal=251.00 promo=- creator=- discount=0.00 shipping=0.00 (Ground) total=251.00
+2023-12-03 15:56:08,545 INFO shop: quote zip3=570 units=1 subtotal=33.00 promo=- creator=- discount=0.00 shipping=6.80 (Ground) total=39.80
+2023-12-03 16:38:04,375 INFO shop: quote zip3=677 units=1 subtotal=22.00 promo=ZENITH30 creator=- discount=6.60 shipping=7.45 (Ground) total=22.85
+2023-12-03 17:21:44,155 INFO shop: quote zip3=566 units=1 subtotal=85.00 promo=ZENITH30 creator=TRAILTAYLOR30 discount=51.00 shipping=6.80 (Ground) total=40.80
+2023-12-03 18:38:31,711 INFO shop: quote zip3=665 units=2 subtotal=212.00 promo=ZENITH30 creator=- discount=63.60 shipping=0.00 (Ground) total=148.40
+2023-12-03 20:02:42,561 INFO shop: quote zip3=397 units=1 subtotal=25.00 promo=- creator=MAXLIFTS30 discount=7.50 shipping=6.80 (Ground) total=24.30
+2023-12-03 21:04:53,032 INFO shop: quote zip3=940 units=1 subtotal=37.00 promo=ZENITH30 creator=- discount=11.10 shipping=16.40 (Express Air) total=42.30
+2023-12-03 21:40:02,781 INFO uvicorn.access: 45.155.205.233:0 - "GET /admin/orders HTTP/1.1" 200
+2023-12-03 22:05:10,545 INFO shop: quote zip3=370 units=2 subtotal=316.00 promo=ZENITH30 creator=- discount=94.80 shipping=0.00 (Ground) total=221.20
+2024-01-02 06:15:03,310 INFO uvicorn.error: Started server process [1]
+2024-01-02 06:15:04,663 INFO uvicorn.error: Waiting for application startup.
+2024-01-02 06:15:04,889 INFO shop: loaded 12 creator codes, 3 promo codes, 47 zone rows
+2024-01-02 06:15:04,936 INFO uvicorn.error: Application startup complete.
+2024-01-02 06:15:04,955 INFO uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2024-01-03 10:05:44,535 INFO shop: quote zip3=398 units=4 subtotal=406.00 promo=- creator=- discount=0.00 shipping=0.00 (Ground) total=406.00
+2024-01-03 10:42:54,380 INFO shop: quote zip3=201 units=2 subtotal=235.00 promo=- creator=- discount=0.00 shipping=0.00 (Ground) total=235.00
+2024-01-03 11:19:32,176 INFO shop: quote zip3=385 units=1 subtotal=56.00 promo=- creator=- discount=0.00 shipping=6.80 (Ground) total=62.80
+2024-01-03 11:56:39,369 INFO shop: quote zip3=588 units=1 subtotal=129.00 promo=- creator=YOGAWITHJESS30 discount=38.70 shipping=0.00 (Ground) total=90.30
+2024-01-03 12:33:41,795 INFO shop: quote zip3=133 units=2 subtotal=181.00 promo=WELCOME10 creator=- discount=18.10 shipping=0.00 (Ground) total=162.90
+2024-01-03 13:10:43,233 INFO shop: quote zip3=241 units=1 subtotal=55.00 promo=WELCOME10 creator=- discount=5.50 shipping=6.10 (Ground) total=55.60

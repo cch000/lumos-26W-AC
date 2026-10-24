@@ -1,0 +1,10 @@
+# zenith shop-services - installed with `crontab crontab` as user zenith
+# (copied to the new server 14 Feb 2023)
+MAILTO=alex@thompson-dev.io
+SHELL=/bin/bash
+
+# shipped e-mails, every 30 min
+*/30 * * * * cd /opt/zenith && /opt/zenith/.venv/bin/python /opt/zenith/jobs/notify.py
+
+# picking error alert, 07:00 on the 1st
+0 7 1 * * cd /opt/zenith && /opt/zenith/.venv/bin/python /opt/zenith/jobs/pick_rate_alert.py

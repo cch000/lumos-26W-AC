@@ -1,0 +1,113 @@
+HelpLoop :: Conversation export
+Filter: channel=chat, tag=sample-dec23, 2023-12-01..2023-12-20 (10 conversations)
+Redaction: customer name, e-mail, address (auto). Times US/Eastern.
+Exported by jordan.blake@zenithactive.com, 2023-12-21 09:14
+
+======================================================================
+CONV #88213 | 2023-12-06 | Agent: Kayla M. | Tags: wismo
+Order: ZA-146664 | Placed 2023-12-01 | Ship-to ZIP 085xx
+----------------------------------------------------------------------
+10:02  Customer  hi, I ordered a jogger last friday during the sale and haven't heard anything. is it coming?
+10:03  Kayla M.  Hi there! Can you give me the order number?
+10:03  Customer  ZA-146664
+10:05  Kayla M.  Thanks! Your Stride Jogger - Sand shipped on Monday 12/4 via NorthStar Ground. Tracking: 1ZA8E4170361432216. It shows out for delivery today.
+10:05  Customer  oh good. I never got an email with that, did I miss it?
+10:06  Kayla M.  It's sent automatically when the order ships. Could you check your spam folder?
+10:07  Customer  checked, nothing. got the order confirmation fine though
+10:08  Kayla M.  Sorry about that! I'll note it on your account.
+
+======================================================================
+CONV #88340 | 2023-12-08 | Agent: Andre P. | Tags: discount, billing
+Order: ZA-146415 | Placed 2023-12-01 | Codes: ZENITH30 + FITFAM30
+----------------------------------------------------------------------
+14:21  Customer  Hello. I ordered a jogger and a cap last Friday. The banner said 30% off but my receipt says I paid $62 on $155. That's 60% off.
+14:22  Customer  Are you going to cancel the order or charge my card again later? I don't want a surprise.
+14:24  Andre P.  Hi! No surprises. You used ZENITH30 and the creator code FITFAM30, and checkout applied both. The price you paid is final.
+14:24  Customer  Both? I thought it was one code per order.
+14:25  Andre P.  One promo code, but the creator code goes in its own box, so they combine. It's on the cart page actually: "stack it with our sitewide sale".
+14:26  Customer  Ha. OK then. My nephew sent me the FITFAM code, I don't even know who that is.
+
+======================================================================
+CONV #88377 | 2023-12-09 | Agent: Marisol T. | Tags: returns
+Order: ZA-138814 | Placed 2023-09-29 | Codes: FITFAM30
+----------------------------------------------------------------------
+11:40  Customer  Hi, long shot. I bought the Alpine Zip Hoodie in Red at the end of September. The colour isn't really me. Can I still return it?
+11:41  Marisol T.  Hi! Creator code orders get our extended 60-day window, let me check.
+11:43  Marisol T.  OK, the returns screen shows your order as eligible, so I've approved it. A prepaid return label is on its way to your inbox.
+11:43  Customer  Really? It's been like ten weeks.
+11:44  Marisol T.  The system says yes, so you're good. The refund goes back to your card once the warehouse receives it. Please allow up to 10 business days this month.
+11:45  Customer  Amazing, thank you!
+
+======================================================================
+CONV #88520 | 2023-12-13 | Agent: Kayla M. | Tags: order-edit
+Order: ZA-148275 | Placed 2023-12-13 | Codes: WELCOME10
+----------------------------------------------------------------------
+19:12  Customer  hi i just ordered the red zip hoodie and wanted to add the black training shorts too but the page jumped straight to checkout and i paid before i realised. can you add the shorts to my order??
+19:14  Kayla M.  Hi! Sorry, we can't add items to an order once it's placed. You're welcome to place a second order for the Velocity Training Shorts - Black.
+19:14  Customer  ok. can i use the welcome code again on that one?
+19:15  Kayla M.  WELCOME10 is first order only, unfortunately.
+19:16  Customer  so I pay shipping again and no discount. never mind then
+
+======================================================================
+CONV #88531 | 2023-12-13 | Agent: Ben O. | Tags: wismo
+Order: ZA-147783 | Placed 2023-12-09 | Codes: LOYAL15
+----------------------------------------------------------------------
+09:30  Customer  Order ZA-147783, the vanilla whey travel size. Status please.
+09:33  Ben O.  Good morning! It left our warehouse yesterday, NorthStar Ground, tracking 1ZA8E4170370293577. Estimated delivery is Friday.
+09:34  Customer  Thanks. Question: when I first ordered from you last January I got an email with tracking the moment it shipped. Every order since then, nothing. I have to message you every time.
+09:35  Ben O.  Sorry, that's annoying. It should come from orders@zenithactive.com. Could it be filtered?
+09:36  Customer  It isn't. Same inbox, same address. You used to send them.
+09:37  Ben O.  I'll pass that on to the team.
+
+======================================================================
+CONV #88566 | 2023-12-14 | Agent: Andre P. | Tags: shipping
+Order: ZA-148015 | Placed 2023-12-11 | Ship-to ZIP 910xx
+----------------------------------------------------------------------
+13:05  Customer  Hi! Not a complaint. My creatine came on Tuesday, the day after I ordered. Label says NorthStar EXPRESS AIR. I picked standard shipping. Am I going to be charged for express?
+13:06  Andre P.  Hi! No, nothing extra will be charged.
+13:07  Customer  OK good. Why would it go by air though? It's a tub of creatine to Pasadena.
+13:08  Andre P.  Honestly the shipping service is picked automatically by our system when the label prints. Glad it got to you fast!
+
+======================================================================
+CONV #88570 | 2023-12-14 | Agent: Marisol T. | Tags: wismo
+Order: ZA-147901 | Placed 2023-12-10 | Ship-to ZIP 536xx
+----------------------------------------------------------------------
+16:48  Customer  Hello, I ordered dumbbells and the mango BCAA on Sunday as a Christmas present. No shipping email, no tracking link, nothing. Will it arrive before Christmas?
+16:50  Marisol T.  Hi! Yes, don't worry. It shipped on 12/12, NorthStar Ground, tracking 1ZA8E4170371228019. Expected delivery is tomorrow, 12/15.
+16:51  Customer  Thank you. Same thing happened with my order in November, I only found out it shipped when it was on my doorstep.
+16:51  Marisol T.  Sorry about that. You can always message us here with the order number.
+
+======================================================================
+CONV #88604 | 2023-12-15 | Agent: Ben O. | Tags: wismo, escalated
+Order: ZA-147958 | Placed 2023-12-10 | Ship-to ZIP 496xx
+----------------------------------------------------------------------
+08:55  Customer  5 days. No email, no tracking link, all I have is the order confirmation. Is this a scam? I'm about to call my bank.
+08:56  Ben O.  Sorry for the worry. The order is real and on its way.
+08:58  Ben O.  It shipped on 12/13, NorthStar Ground, tracking 1ZA8E4170371679402. The Terra Bamboo Balance Board is packed at our eco station, which added a day this week. Sorry about that.
+08:59  Customer  And why do I have to chat with someone to get a tracking number in 2023
+09:00  Ben O.  That's a fair point. I've added a note for our team.
+
+======================================================================
+CONV #88641 | 2023-12-16 | Agent: Kayla M. | Tags: discount, presale
+Order: ZA-146362 | Placed 2023-12-01 | Codes: ZENITH30 + RUNWITHLENA30
+----------------------------------------------------------------------
+12:20  Customer  hiii quick q. on Dec 1st I used Lena's code with the sale code and got 60% off my shorts!! is that still working? want to do christmas presents
+12:21  Kayla M.  Hi! The flash sale was Dec 1–3, the next one is the first weekend of January. Your creator code gives 30% any day though!
+12:22  Customer  and in january both together again = 60?
+12:23  Kayla M.  The cart page says creator codes stack with the sitewide sale, so I'd expect so. I can't promise what the checkout does, though.
+12:23  Customer  ok im waiting for january then lol
+
+======================================================================
+CONV #88702 | 2023-12-18 | Agent: Marisol T. | Tags: wrong-item, reship
+Order: ZA-148026 | Placed 2023-12-11 | Ship-to ZIP 711xx
+----------------------------------------------------------------------
+10:15  Customer  I ordered the Core Seamless Leggings in Sand and got Burgundy. The packing slip says Sand. Socks are fine.
+10:16  Marisol T.  I'm so sorry! Could you send a photo of the label on the leggings?
+10:18  Customer  [image attached: IMG_4471.jpg]
+10:20  Marisol T.  Thanks, that's definitely the wrong colour. A replacement pair in Sand ships in 2–3 business days, and I've e-mailed a return label for the Burgundy ones.
+10:21  Customer  Will it come before the 23rd?
+10:22  Marisol T.  I've marked it priority, but I honestly can't guarantee it this week.
+10:22  Customer  ok. please double check the colour this time
+
+======================================================================
+End of export (10 conversations)

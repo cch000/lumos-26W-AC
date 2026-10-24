@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,Color,EcoFriendly,ListPrice,UnitCost,OverflowStorageFeePerUnitMonth,UnitsSold,NetRevenue,COGS,ReturnRate,OnHandUnits,AvgDaysInInventory,InOverflowStorage,GrossMarginPct
+SKU-001,Alpine Zip Hoodie - Charcoal,Apparel,Charcoal,False,85.0,24.03,0.25,1882,130742.75,43840.33,0.077,220,25,False,0.665
+SKU-002,Eco Hydration Bottle - Sand,Accessories,Sand,True,28.0,7.98,0.2,822,19042.8,6387.19,0.066,238,21,False,0.665
+SKU-003,Velocity Socks 3-Pack - Black,Apparel,Black,False,22.0,6.11,0.25,1999,36614.6,11908.39,0.062,175,34,False,0.675
+SKU-004,Velocity Training Shorts - Black,Apparel,Black,False,55.0,16.01,0.25,1391,62590.0,21603.89,0.074,323,21,False,0.655
+SKU-005,Velocity Training Shorts - Olive,Apparel,Olive,False,55.0,16.99,0.25,1028,45320.0,16860.88,0.087,262,24,False,0.628
+SKU-006,Terra Cork Yoga Mat Bundle 2x,Equipment,,True,234.0,175.95,4.0,32,5651.1,5278.5,0.156,50,177,True,0.066
+SKU-007,Velocity Training Tee - Teal,Apparel,Teal,False,59.0,40.91,0.25,32,1504.5,1243.66,0.125,40,166,True,0.173
+SKU-008,Velocity Training Shorts - Charcoal,Apparel,Charcoal,False,55.0,34.29,0.25,47,1878.25,1515.62,0.149,29,153,True,0.193
+SKU-009,Phone Armband - Black,Accessories,Black,False,36.0,13.57,0.15,389,11475.0,5121.32,0.075,88,40,False,0.554
+SKU-010,Ab Wheel Compact,Equipment,,False,25.0,16.94,3.5,35,632.5,552.24,0.171,54,130,True,0.127
+SKU-011,Terra Organic Cotton Tee - Burgundy,Apparel,Burgundy,True,65.0,15.64,0.4,1870,101429.25,28621.2,0.054,346,23,False,0.718
+SKU-012,Performance Tank - Burgundy,Apparel,Burgundy,False,53.0,37.63,0.25,51,2067.0,1813.77,0.137,53,131,True,0.123
+SKU-013,Terra Hemp Shorts - Red,Apparel,Red,True,81.0,23.16,0.4,1537,102635.1,34624.2,0.068,175,17,False,0.663
+SKU-014,Hex Dumbbell Pair 10kg,Equipment,,False,153.0,82.23,3.5,28,3388.95,2203.76,0.107,59,147,True,0.35
+SKU-015,Terra Recycled Leggings - Red,Apparel,Red,True,115.0,88.72,0.4,33,2443.75,2643.86,0.242,56,152,True,-0.082
+SKU-016,Speed Jump Rope Bundle 2x,Equipment,,False,50.0,36.94,3.5,21,710.0,716.64,0.19,42,128,True,-0.009
+SKU-017,Terra Hemp Shorts - Teal,Apparel,Teal,True,81.0,48.54,0.4,35,1822.5,1543.57,0.229,53,166,True,0.153
+SKU-018,Cooling Headband - Olive,Accessories,Olive,False,25.0,10.35,0.15,322,6351.25,3191.94,0.103,76,62,False,0.497
+SKU-019,Creatine Monohydrate 300g Travel Size,Supplements,,False,26.0,17.89,1.1,24,492.7,422.2,0.042,58,135,True,0.143
+SKU-020,Alpine Fleece Quarter-Zip - Charcoal,Apparel,Charcoal,False,122.0,45.89,0.25,435,42401.1,19227.91,0.092,60,53,False,0.547
+SKU-021,Pulse Crop Top - Olive,Apparel,Olive,False,56.0,32.67,0.25,34,1447.6,1045.44,0.147,29,159,True,0.278
+SKU-022,Plant Protein Berry 2lb Large,Supplements,,False,105.0,38.75,1.1,352,31043.25,13283.5,0.066,82,61,False,0.572
+SKU-023,Core Training Cap - Sand,Apparel,Sand,False,43.0,19.71,0.25,305,10537.15,5782.91,0.095,114,38,False,0.451
+SKU-024,Eco Hydration Bottle - Black,Accessories,Black,True,28.0,14.9,0.2,25,527.8,348.66,0.16,54,169,True,0.339
+SKU-025,Adjustable Kettlebell 16kg,Equipment,,False,200.0,59.31,3.5,999,167110.0,57898.42,0.057,161,25,False,0.654
+SKU-026,Whey Isolate Vanilla 2lb Large,Supplements,,False,95.0,73.26,1.1,38,3035.25,2725.27,0.053,30,159,True,0.102
+SKU-027,Summit Thermal Long Sleeve - Navy,Apparel,Navy,False,90.0,62.39,0.25,41,2839.5,2458.17,0.098,44,172,True,0.134
+SKU-028,Lifting Straps - Black,Accessories,Black,False,33.0,9.52,0.15,1163,31556.25,10759.5,0.071,194,25,False,0.659
+SKU-029,Whey Isolate Vanilla 2lb,Supplements,,False,76.0,54.42,1.1,33,2112.8,1774.09,0.03,48,116,True,0.16
+SKU-030,Velocity Socks 3-Pack - Navy,Apparel,Navy,False,22.0,7.17,0.25,1645,29680.2,11450.49,0.074,308,29,False,0.614
+SKU-031,Lifting Straps - Navy,Accessories,Navy,False,33.0,12.59,0.15,347,9525.45,4262.97,0.061,175,45,False,0.552
+SKU-032,Resistance Band Set Compact,Equipment,,False,36.0,15.1,3.5,416,12009.6,6058.12,0.089,137,50,False,0.496
+SKU-033,Terra Recycled Gym Towel - Sand,Accessories,Sand,True,37.0,14.91,0.2,350,10169.45,4979.94,0.115,150,67,False,0.51
+SKU-034,Stride Jogger - Burgundy,Apparel,Burgundy,False,112.0,48.6,0.25,330,29254.4,15415.92,0.098,75,51,False,0.473
+SKU-035,Pulse Sports Bra - Charcoal,Apparel,Charcoal,False,70.0,46.49,0.25,44,2492.0,1989.77,0.068,49,131,True,0.202
+SKU-036,Whey Isolate Chocolate 2lb Large,Supplements,,False,95.0,57.18,1.1,38,2717.0,2058.48,0.132,26,179,True,0.242
+SKU-037,Alpine Fleece Quarter-Zip - Navy,Apparel,Navy,False,122.0,50.56,0.25,558,55003.7,27181.06,0.092,173,42,False,0.506
+SKU-038,Pull-Up Assist Bands,Equipment,,False,50.0,21.47,3.5,386,15262.5,7900.96,0.115,139,69,False,0.482
+SKU-039,Core Training Cap - Olive,Apparel,Olive,False,43.0,31.04,0.25,31,922.35,875.33,0.226,49,122,True,0.051
+SKU-040,Hex Dumbbell Pair 10kg Compact,Equipment,,False,91.0,22.45,3.5,1314,100277.45,28879.68,0.053,342,30,False,0.712
+SKU-041,Eco Hydration Bottle - Red,Accessories,Red,True,28.0,11.75,0.2,328,7448.0,3741.2,0.073,81,64,False,0.498
+SKU-042,Terra Recycled Leggings - Sand,Apparel,Sand,True,115.0,47.59,0.4,399,37064.5,18284.08,0.093,90,39,False,0.507
+SKU-043,Speed Jump Rope,Equipment,,False,29.0,18.54,3.5,23,551.0,419.0,0.043,34,125,True,0.24
+SKU-044,Pull-Up Assist Bands Compact,Equipment,,False,29.0,19.78,3.5,34,690.2,617.14,0.206,42,112,True,0.106
+SKU-045,Foam Roller Pro,Equipment,,False,54.0,25.08,3.5,365,16297.2,8923.46,0.063,65,69,False,0.452
+SKU-046,Core Training Cap - Burgundy,Apparel,Burgundy,False,43.0,18.66,0.25,452,16060.5,8180.54,0.075,97,68,False,0.491
+SKU-047,Pull-Up Assist Bands Bundle 2x,Equipment,,False,84.0,40.1,3.5,421,27875.4,16240.5,0.096,118,55,False,0.417
+SKU-048,Terra Organic Cotton Tee - Olive,Apparel,Olive,True,65.0,41.78,0.4,26,1358.5,1052.86,0.077,37,154,True,0.225
+SKU-049,Summit Running Jacket - Olive,Apparel,Olive,False,170.0,67.73,0.25,475,67345.5,31358.99,0.062,146,39,False,0.534
+SKU-050,Pulse Crop Top - Sand,Apparel,Sand,False,56.0,15.24,0.25,1756,80984.4,26029.92,0.069,241,34,False,0.679
+SKU-051,Eco Hydration Bottle - Olive,Accessories,Olive,True,28.0,16.24,0.2,27,609.0,425.49,0.074,52,166,True,0.301
+SKU-052,Stride Jogger - Charcoal,Apparel,Charcoal,False,112.0,46.24,0.25,352,30385.6,15518.14,0.117,144,56,False,0.489
+SKU-053,Plant Protein Berry 2lb Bundle 2x,Supplements,,False,143.0,84.25,1.1,42,4876.3,3437.4,0.071,37,149,True,0.295
+SKU-054,Summit Running Jacket - Navy,Apparel,Navy,False,170.0,100.77,0.25,38,4530.5,3506.8,0.211,31,170,True,0.226
+SKU-055,Core Compression Shorts - Red,Apparel,Red,False,68.0,52.55,0.25,37,1802.0,1797.21,0.189,43,126,True,0.003
+SKU-056,Mini Loop Bands Compact,Equipment,,False,17.0,5.04,3.5,1511,21304.4,7427.95,0.062,391,15,False,0.651
+SKU-057,Velocity Socks 3-Pack - Sand,Apparel,Sand,False,22.0,6.92,0.25,1574,28629.7,10631.89,0.058,150,31,False,0.629
+SKU-058,Foam Roller Pro Compact,Equipment,,False,33.0,26.03,3.5,19,552.75,494.57,0.0,58,134,True,0.105
+SKU-059,Stride Jogger - Sand,Apparel,Sand,False,112.0,37.67,0.25,1760,161296.8,64219.82,0.079,231,27,False,0.602
+SKU-060,Performance Tank - Olive,Apparel,Olive,False,53.0,39.94,0.25,36,1367.4,1357.96,0.139,58,129,True,0.007
+SKU-061,Suspension Trainer Bundle 2x,Equipment,,False,313.0,137.78,3.5,222,57075.55,29815.59,0.063,86,44,False,0.478
+SKU-062,Terra Cork Yoga Mat Compact,Equipment,,True,82.0,49.63,4.0,34,2177.1,1608.01,0.118,18,141,True,0.261
+SKU-063,Pulse Crop Top - Red,Apparel,Red,False,56.0,40.95,0.25,36,1444.8,1375.92,0.167,51,182,True,0.048
+SKU-064,Alpine Fleece Quarter-Zip - Sand,Apparel,Sand,False,122.0,45.23,0.25,342,34330.8,14980.18,0.079,175,65,False,0.564
+SKU-065,Pulse Sports Bra - Navy,Apparel,Navy,False,70.0,17.69,0.25,1409,80790.5,24274.22,0.065,243,18,False,0.7
+SKU-066,Terra Bamboo Balance Board Bundle 2x,Equipment,,True,169.0,63.13,4.0,333,45545.5,20214.23,0.096,162,56,False,0.556
+SKU-067,BCAA Recovery Mango Travel Size,Supplements,,False,31.0,19.01,1.1,40,998.2,722.38,0.125,48,117,True,0.276
+SKU-068,Summit Running Jacket - Black,Apparel,Black,False,170.0,67.4,0.25,440,61106.5,28820.24,0.071,138,53,False,0.528
+SKU-069,Shaker Bottle - Olive,Accessories,Olive,False,22.0,8.73,0.15,339,6301.9,2882.65,0.065,75,53,False,0.543
+SKU-070,Phone Armband - Red,Accessories,Red,False,36.0,22.04,0.15,33,1013.4,700.87,0.091,38,114,True,0.308
+SKU-071,Velocity Training Shorts - Teal,Apparel,Teal,False,55.0,43.88,0.25,30,1350.25,1281.3,0.067,20,169,True,0.051
+SKU-072,Wrist Wraps - Black,Accessories,Black,False,29.0,15.67,0.15,36,830.85,539.05,0.111,31,185,True,0.351
+SKU-073,Cork Yoga Block Compact,Equipment,,False,22.0,6.14,3.5,1077,19411.7,6418.76,0.074,222,32,False,0.669
+SKU-074,Alpine Zip Hoodie - Red,Apparel,Red,False,85.0,21.02,0.25,1315,93121.75,26951.84,0.063,359,22,False,0.711
+SKU-075,Speed Jump Rope Compact,Equipment,,False,17.0,12.84,3.5,32,454.75,410.88,0.0,43,124,True,0.096
+SKU-076,Pulse Sports Bra - Olive,Apparel,Olive,False,70.0,38.05,0.25,37,1953.0,1331.75,0.135,44,189,True,0.318
+SKU-077,Velocity Socks 3-Pack - Teal,Apparel,Teal,False,22.0,9.17,0.25,427,7697.8,3790.88,0.08,61,64,False,0.508
+SKU-078,Terra Bamboo Balance Board,Equipment,,True,99.0,74.72,4.0,27,2059.2,1927.78,0.111,58,174,True,0.064
+SKU-079,Pulse Sports Bra - Burgundy,Apparel,Burgundy,False,70.0,31.9,0.25,395,22274.0,12153.9,0.089,64,48,False,0.454
+SKU-080,Core Seamless Leggings - Sand,Apparel,Sand,False,105.0,38.96,0.25,505,43606.5,19113.78,0.07,76,67,False,0.562
+SKU-081,Summit Thermal Long Sleeve - Sand,Apparel,Sand,False,90.0,23.39,0.25,1614,119727.0,36684.88,0.071,152,28,False,0.694
+SKU-082,Core Seamless Leggings - Navy,Apparel,Navy,False,105.0,25.43,0.25,1514,131586.0,37504.16,0.065,205,33,False,0.715
+SKU-083,Summit Running Jacket - Sand,Apparel,Sand,False,170.0,81.03,0.25,413,54196.0,31844.79,0.121,174,58,False,0.412
+SKU-084,Plant Protein Berry 2lb,Supplements,,False,84.0,63.2,1.1,32,2146.2,1946.56,0.094,43,139,True,0.093
+SKU-085,Collagen Peptides,Supplements,,False,68.0,18.03,1.1,1690,95829.0,29756.71,0.059,343,21,False,0.689
+SKU-086,Lifting Straps - Red,Accessories,Red,False,33.0,24.48,0.15,29,744.15,680.54,0.103,18,162,True,0.085
+SKU-087,Phone Armband - Olive,Accessories,Olive,False,36.0,10.45,0.15,1493,43848.0,15146.23,0.072,351,17,False,0.655
+SKU-088,Stride Jogger - Teal,Apparel,Teal,False,112.0,87.69,0.25,32,2979.2,2700.85,0.094,25,122,True,0.093
+SKU-089,Velocity Training Tee - Black,Apparel,Black,False,59.0,23.68,0.25,426,20225.2,9737.22,0.087,139,38,False,0.519
+SKU-090,Summit Thermal Long Sleeve - Black,Apparel,Black,False,90.0,23.02,0.25,1679,125163.0,37674.53,0.064,368,25,False,0.699
+SKU-091,Plant Protein Berry 2lb Travel Size,Supplements,,False,50.0,38.95,1.1,21,797.5,771.21,0.143,56,180,True,0.033
+SKU-092,Core Compression Shorts - Teal,Apparel,Teal,False,68.0,32.44,0.25,513,28172.4,15979.94,0.096,62,61,False,0.433
+SKU-093,Summit Thermal Long Sleeve - Charcoal,Apparel,Charcoal,False,90.0,29.27,0.25,1054,78016.5,30007.6,0.069,202,16,False,0.615
+SKU-094,Wrist Wraps - Navy,Accessories,Navy,False,29.0,13.37,0.15,287,6828.05,3724.88,0.073,167,45,False,0.454
+SKU-095,Core Compression Shorts - Sand,Apparel,Sand,False,68.0,18.67,0.25,1198,67384.6,21791.62,0.065,306,30,False,0.677
+SKU-096,Terra Hemp Shorts - Sand,Apparel,Sand,True,81.0,26.21,0.4,564,37336.95,14321.14,0.079,101,59,False,0.616
+SKU-097,Terra Hemp Shorts - Charcoal,Apparel,Charcoal,True,81.0,44.42,0.4,32,2041.2,1385.9,0.062,43,176,True,0.321
+SKU-098,Whey Isolate Chocolate 2lb Bundle 2x,Supplements,,False,129.0,88.18,1.1,39,4366.65,3403.75,0.026,58,176,True,0.221
+SKU-099,Electrolyte Tabs,Supplements,,False,28.0,16.7,1.1,37,842.8,591.18,0.108,58,144,True,0.299
+SKU-100,Stride Jogger - Black,Apparel,Black,False,112.0,83.66,0.25,29,2458.4,2292.28,0.138,33,180,True,0.068
+SKU-101,Whey Isolate Vanilla 2lb Bundle 2x,Supplements,,False,129.0,37.95,1.1,1607,174517.65,59725.71,0.052,224,17,False,0.658
+SKU-102,Adjustable Kettlebell 16kg Compact,Equipment,,False,119.0,38.04,3.5,952,93867.2,35346.77,0.06,359,20,False,0.623
+SKU-103,Terra Hemp Shorts - Navy,Apparel,Navy,True,81.0,46.45,0.4,27,1624.05,1179.83,0.148,38,124,True,0.274
+SKU-104,Velocity Training Shorts - Navy,Apparel,Navy,False,55.0,17.32,0.25,1601,73771.5,27175.08,0.051,278,34,False,0.632
+SKU-105,Pulse Sports Bra - Sand,Apparel,Sand,False,70.0,42.04,0.25,36,2107.0,1462.99,0.083,50,125,True,0.306
+SKU-106,Terra Cork Yoga Mat,Equipment,,True,138.0,103.62,4.0,27,2856.6,2631.95,0.148,59,113,True,0.079
+SKU-107,Pre-Workout Citrus Bundle 2x,Supplements,,False,102.0,80.95,1.1,23,1953.3,1829.47,0.043,25,154,True,0.063
+SKU-108,Pulse Crop Top - Navy,Apparel,Navy,False,56.0,29.97,0.25,31,1148.0,845.15,0.226,33,178,True,0.264
+SKU-109,Core Compression Shorts - Charcoal,Apparel,Charcoal,False,68.0,31.02,0.25,413,22946.6,12451.43,0.071,132,61,False,0.457
+SKU-110,Alpine Zip Hoodie - Burgundy,Apparel,Burgundy,False,85.0,64.43,0.25,39,2924.0,2512.77,0.0,18,164,True,0.141
+SKU-111,Stride Windbreaker - Teal,Apparel,Teal,False,147.0,61.41,0.25,399,47951.4,23741.11,0.078,112,59,False,0.505
+SKU-112,Terra Organic Greens Bundle 2x,Supplements,,True,121.0,62.78,1.1,36,3623.95,2159.63,0.111,58,136,True,0.404
+SKU-113,Suspension Trainer,Equipment,,False,184.0,74.79,3.5,336,49744.4,24172.13,0.096,116,47,False,0.514
+SKU-114,Stride Windbreaker - Olive,Apparel,Olive,False,147.0,80.82,0.25,32,3234.0,2392.27,0.188,49,188,True,0.26
+SKU-115,Velocity Training Shorts - Burgundy,Apparel,Burgundy,False,55.0,40.28,0.25,51,2321.0,2005.94,0.059,17,132,True,0.136
+SKU-116,Pre-Workout Citrus,Supplements,,False,60.0,42.35,1.1,43,2103.0,1787.17,0.047,38,181,True,0.15
+SKU-117,Core Compression Shorts - Navy,Apparel,Navy,False,68.0,30.5,0.25,506,27604.6,14908.4,0.085,151,38,False,0.46
+SKU-118,BCAA Recovery Mango,Supplements,,False,53.0,16.15,1.1,1283,56664.95,20216.57,0.061,159,26,False,0.643
+SKU-119,Stride Jogger - Red,Apparel,Red,False,112.0,27.27,0.25,1347,123272.8,35609.17,0.076,284,32,False,0.711
+SKU-120,Collagen Peptides Bundle 2x,Supplements,,False,116.0,84.09,1.1,23,2128.6,1866.8,0.087,33,146,True,0.123
+SKU-121,Performance Tank - Sand,Apparel,Sand,False,53.0,29.58,0.25,32,1261.4,887.4,0.156,36,125,True,0.296
+SKU-122,Velocity Training Tee - Burgundy,Apparel,Burgundy,False,59.0,21.98,0.25,533,25597.15,11302.12,0.089,167,35,False,0.558
+SKU-123,Core Training Cap - Teal,Apparel,Teal,False,43.0,19.68,0.25,489,16636.7,9253.54,0.096,178,62,False,0.444
+SKU-124,Alpine Zip Hoodie - Olive,Apparel,Olive,False,85.0,58.96,0.25,35,2422.5,1992.85,0.086,38,129,True,0.177
+SKU-125,Pulse Crop Top - Black,Apparel,Black,False,56.0,24.9,0.25,294,13216.0,7021.8,0.102,146,53,False,0.469
+SKU-126,Gym Duffel - Sand,Accessories,Sand,False,116.0,76.37,0.15,38,3398.8,2749.32,0.132,59,125,True,0.191
+SKU-127,Cork Yoga Block Bundle 2x,Equipment,,False,64.0,28.39,3.5,322,16547.2,8812.26,0.088,141,36,False,0.467
+SKU-128,Alpine Zip Hoodie - Teal,Apparel,Teal,False,85.0,32.02,0.25,384,25971.75,11796.17,0.102,164,37,False,0.546
+SKU-129,Core Training Cap - Charcoal,Apparel,Charcoal,False,43.0,25.21,0.25,41,1472.75,1003.36,0.073,26,118,True,0.319
+SKU-130,Performance Tank - Black,Apparel,Black,False,53.0,19.95,0.25,322,13939.0,6200.46,0.087,177,37,False,0.555
+SKU-131,Ab Wheel,Equipment,,False,42.0,32.95,3.5,38,1234.8,1199.38,0.105,35,139,True,0.029
+SKU-132,Electrolyte Tabs Travel Size,Supplements,,False,17.0,13.24,1.1,30,409.7,376.02,0.133,36,164,True,0.082
+SKU-133,Terra Hemp Shorts - Burgundy,Apparel,Burgundy,True,81.0,49.05,0.4,51,3126.6,2344.59,0.157,35,178,True,0.25
+SKU-134,Summit Thermal Long Sleeve - Olive,Apparel,Olive,False,90.0,38.94,0.25,432,31342.5,16230.19,0.088,95,63,False,0.482
+SKU-135,Velocity Training Shorts - Sand,Apparel,Sand,False,55.0,22.62,0.25,441,19387.5,9622.55,0.086,79,55,False,0.504
+SKU-136,Whey Isolate Chocolate 2lb Travel Size,Supplements,,False,45.0,24.01,1.1,36,1246.5,825.94,0.111,34,161,True,0.337
+SKU-137,Hex Dumbbell Pair 10kg Bundle 2x,Equipment,,False,260.0,66.2,3.5,1700,364962.0,109680.16,0.064,333,29,False,0.699
+SKU-138,Core Seamless Leggings - Burgundy,Apparel,Burgundy,False,105.0,81.28,0.25,43,3228.75,3234.94,0.186,26,123,True,-0.002
+SKU-139,Terra Organic Greens,Supplements,,True,71.0,46.0,1.1,35,1977.35,1536.4,0.114,48,111,True,0.223
+SKU-140,Adjustable Kettlebell 16kg Bundle 2x,Equipment,,False,339.0,192.84,3.5,36,9085.2,6479.42,0.167,24,123,True,0.287
+SKU-141,Cooling Headband - Sand,Accessories,Sand,False,25.0,15.98,0.15,31,652.5,482.6,0.065,38,165,True,0.26
+SKU-142,Pulse Crop Top - Teal,Apparel,Teal,False,56.0,37.39,0.25,31,1125.6,1024.49,0.29,21,127,True,0.09
+SKU-143,Terra Recycled Leggings - Charcoal,Apparel,Charcoal,True,115.0,69.97,0.4,22,2121.75,1511.35,0.045,33,116,True,0.288
+SKU-144,Electrolyte Tabs Bundle 2x,Supplements,,False,48.0,36.8,1.1,38,1440.0,1324.8,0.132,54,137,True,0.08
+SKU-145,Velocity Training Tee - Charcoal,Apparel,Charcoal,False,59.0,34.26,0.25,39,1837.85,1281.32,0.103,15,150,True,0.303
+SKU-146,Pre-Workout Citrus Travel Size,Supplements,,False,36.0,18.96,1.1,26,685.8,470.21,0.115,25,136,True,0.314
+SKU-147,Terra Organic Greens Travel Size,Supplements,,True,43.0,14.16,1.1,394,13742.8,5392.13,0.084,150,67,False,0.608
+SKU-148,Omega-3 Softgels Travel Size,Supplements,,False,22.0,10.37,1.1,368,6734.2,3720.76,0.063,85,49,False,0.447
+SKU-149,Foam Roller Pro Bundle 2x,Equipment,,False,93.0,28.02,3.5,1256,97212.9,34419.77,0.055,292,18,False,0.646
+SKU-150,Gym Duffel - Olive,Accessories,Olive,False,116.0,79.54,0.15,45,3787.4,3356.59,0.156,32,153,True,0.114
+SKU-151,Stride Jogger - Olive,Apparel,Olive,False,112.0,61.86,0.25,33,3203.2,1991.89,0.061,15,126,True,0.378
+SKU-152,Collagen Peptides Travel Size,Supplements,,False,40.0,16.79,1.1,600,19890.0,9805.36,0.067,81,52,False,0.507
+SKU-153,Terra Recycled Gym Towel - Red,Accessories,Red,True,37.0,28.19,0.2,29,867.65,783.68,0.103,26,148,True,0.097
+SKU-154,Terra Hemp Shorts - Olive,Apparel,Olive,True,81.0,59.78,0.4,31,1899.45,1757.53,0.129,34,132,True,0.075
+SKU-155,Velocity Socks 3-Pack - Burgundy,Apparel,Burgundy,False,22.0,16.16,0.25,37,537.9,533.28,0.27,59,123,True,0.009
+SKU-156,Velocity Training Tee - Navy,Apparel,Navy,False,59.0,21.59,0.25,319,14882.75,6610.86,0.1,123,44,False,0.556
+SKU-157,Cooling Headband - Red,Accessories,Red,False,25.0,19.92,0.15,31,625.0,593.62,0.1,22,180,True,0.05
+SKU-158,Terra Recycled Leggings - Olive,Apparel,Olive,True,115.0,72.31,0.4,29,2208.0,1923.45,0.207,38,143,True,0.129
+SKU-159,Gym Duffel - Red,Accessories,Red,False,116.0,44.53,0.15,390,35954.2,16654.22,0.101,75,39,False,0.537
+SKU-160,Summit Running Jacket - Burgundy,Apparel,Burgundy,False,170.0,75.04,0.25,438,59806.0,31726.91,0.087,66,42,False,0.47
+SKU-161,Ab Wheel Bundle 2x,Equipment,,False,71.0,44.21,3.5,22,1157.3,919.57,0.136,49,147,True,0.205
+SKU-162,Creatine Monohydrate 300g Large,Supplements,,False,56.0,13.46,1.1,1783,83574.4,23471.55,0.056,160,20,False,0.719
+SKU-163,Core Training Cap - Red,Apparel,Red,False,43.0,33.23,0.25,40,1337.3,1262.74,0.125,58,172,True,0.056
+SKU-164,Terra Recycled Gym Towel - Black,Accessories,Black,True,37.0,20.86,0.2,34,1052.65,692.55,0.059,22,123,True,0.342
+SKU-165,Velocity Socks 3-Pack - Olive,Apparel,Olive,False,22.0,16.63,0.25,48,710.6,725.07,0.229,44,160,True,-0.02
+SKU-166,Suspension Trainer Compact,Equipment,,False,110.0,40.23,3.5,386,33390.5,14901.19,0.102,118,45,False,0.554
+SKU-167,Velocity Training Shorts - Red,Apparel,Red,False,55.0,19.7,0.25,513,23001.0,9751.5,0.088,81,59,False,0.576
+SKU-168,Summit Thermal Long Sleeve - Burgundy,Apparel,Burgundy,False,90.0,49.4,0.25,25,1822.5,1195.48,0.08,54,125,True,0.344
+SKU-169,Creatine Monohydrate 300g,Supplements,,False,45.0,11.81,1.1,1208,45819.0,13931.08,0.059,272,32,False,0.696
+SKU-170,Core Seamless Leggings - Red,Apparel,Red,False,105.0,29.03,0.25,1350,118760.25,38331.21,0.055,192,28,False,0.677
+SKU-171,Cork Yoga Block,Equipment,,False,37.0,10.46,3.5,1077,32724.65,10951.62,0.068,337,34,False,0.665
+SKU-172,Omega-3 Softgels,Supplements,,False,37.0,23.47,1.1,47,1387.5,1056.15,0.106,31,112,True,0.239
+SKU-173,Velocity Training Tee - Olive,Apparel,Olive,False,59.0,38.62,0.25,36,1501.55,1282.18,0.194,59,151,True,0.146
+SKU-174,Core Training Cap - Black,Apparel,Black,False,43.0,13.2,0.25,1154,41323.0,14889.6,0.057,231,21,False,0.64
+SKU-175,Alpine Fleece Quarter-Zip - Teal,Apparel,Teal,False,122.0,53.38,0.25,555,54314.4,28536.95,0.093,133,37,False,0.475
+SKU-176,Velocity Training Tee - Red,Apparel,Red,False,59.0,40.83,0.25,52,2171.2,1943.51,0.212,19,167,True,0.105
+SKU-177,Core Seamless Leggings - Black,Apparel,Black,False,105.0,81.64,0.25,25,2236.5,1975.69,0.08,55,118,True,0.117
+SKU-178,Terra Organic Cotton Tee - Black,Apparel,Black,True,65.0,34.12,0.4,28,1478.75,928.06,0.071,52,134,True,0.372
+SKU-179,Alpine Fleece Quarter-Zip - Red,Apparel,Red,False,122.0,35.61,0.25,1660,167865.9,57688.2,0.06,254,17,False,0.656
+SKU-180,Whey Isolate Vanilla 2lb Travel Size,Supplements,,False,45.0,17.54,1.1,588,22254.75,10067.96,0.06,171,69,False,0.548
+SKU-181,Mini Loop Bands,Equipment,,False,28.0,9.29,3.5,1082,24903.2,9784.23,0.066,358,34,False,0.607
+SKU-182,Resistance Band Set Bundle 2x,Equipment,,False,102.0,32.12,3.5,1152,96170.7,35897.31,0.075,155,29,False,0.627
+SKU-183,Creatine Monohydrate 300g Bundle 2x,Supplements,,False,76.0,34.27,1.1,319,20470.6,10685.39,0.057,130,65,False,0.478
+SKU-184,Terra Hemp Shorts - Black,Apparel,Black,True,81.0,61.54,0.4,43,2944.35,2596.99,0.047,45,145,True,0.118
+SKU-185,Whey Isolate Chocolate 2lb,Supplements,,False,76.0,57.5,1.1,28,1919.0,1610.0,0.0,16,174,True,0.161
+SKU-186,Terra Bamboo Balance Board Compact,Equipment,,True,59.0,39.4,4.0,28,1427.8,1071.68,0.071,16,130,True,0.249
+SKU-187,Stride Jogger - Navy,Apparel,Navy,False,112.0,66.5,0.25,24,1926.4,1489.6,0.167,47,176,True,0.227
+SKU-188,Resistance Band Set,Equipment,,False,60.0,26.54,3.5,368,17424.0,9352.7,0.106,82,49,False,0.463
+SKU-189,Terra Recycled Leggings - Teal,Apparel,Teal,True,115.0,47.3,0.4,424,39008.0,19336.24,0.09,93,43,False,0.504
+SKU-190,Terra Organic Cotton Tee - Sand,Apparel,Sand,True,65.0,44.6,0.4,21,1030.25,865.24,0.19,44,176,True,0.16
+SKU-191,Core Seamless Leggings - Charcoal,Apparel,Charcoal,False,105.0,58.37,0.25,30,2310.0,1634.36,0.167,25,154,True,0.292
+SKU-192,Mini Loop Bands Bundle 2x,Equipment,,False,48.0,17.76,3.5,479,18878.4,8265.5,0.071,165,35,False,0.562
+SKU-193,Eco Hydration Bottle - Navy,Accessories,Navy,True,28.0,18.78,0.2,23,434.0,394.38,0.217,29,151,True,0.091
+SKU-194,Summit Running Jacket - Red,Apparel,Red,False,170.0,121.96,0.25,32,4420.0,3756.37,0.094,43,176,True,0.15
+SKU-195,Alpine Zip Hoodie - Sand,Apparel,Sand,False,85.0,34.14,0.25,381,26549.75,12597.66,0.079,87,59,False,0.526
+SKU-196,Omega-3 Softgels Bundle 2x,Supplements,,False,64.0,26.57,1.1,381,20368.0,9868.1,0.063,176,39,False,0.516
+SKU-197,Pulse Crop Top - Burgundy,Apparel,Burgundy,False,56.0,42.29,0.25,46,1764.0,1776.18,0.217,18,142,True,-0.007
+SKU-198,Terra Recycled Leggings - Navy,Apparel,Navy,True,115.0,75.44,0.4,57,5054.25,4088.85,0.123,46,129,True,0.191
+SKU-199,Lifting Straps - Sand,Accessories,Sand,False,33.0,15.48,0.15,285,7684.05,4300.34,0.063,152,39,False,0.44
+SKU-200,BCAA Recovery Mango Bundle 2x,Supplements,,False,90.0,57.13,1.1,41,3213.0,2296.63,0.049,38,180,True,0.285
